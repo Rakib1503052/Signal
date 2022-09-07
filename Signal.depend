@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1654525795 source:d:\my projects\cpp_libraries\signal\getwindow.cpp
+	"signal.h"
+	"internalFunc.h"
+
+1662485337 d:\my projects\cpp_libraries\signal\signal.h
+	<vector>
+	<array>
+	<algorithm>
+	<exception>
+	<cmath>
+	<complex>
+	<string>
+	<map>
+	<tuple>
+	"./libs/matalg.h"
+
+1654526803 d:\my projects\cpp_libraries\signal\libs\matalg.h
+	<vector>
+	<stdexcept>
+	<cmath>
+
+1644408603 d:\my projects\cpp_libraries\signal\internalfunc.h
+	"signal.h"
+
+1654263096 source:d:\my projects\cpp_libraries\signal\padding.cpp
+	"signal.h"
+
+1654525790 source:d:\my projects\cpp_libraries\signal\welch.cpp
+	"signal.h"
+
+1644409412 source:d:\my projects\cpp_libraries\signal\windowf.cpp
+	"internalFunc.h"
+
+1654547663 source:d:\my projects\cpp_libraries\signal\fft.cpp
+	"signal.h"
+	<future>
+
+1654547783 source:d:\my projects\cpp_libraries\signal\filter.cpp
+	"signal.h"
+
